@@ -19,6 +19,6 @@ const regex = /(?<digit>\d+)(?<word>\w+)/g;
     
 //     return `${a*10 }${ b.toUpperCase() }`
 // })
-// console.log(final)
+console.log(final)
 
 console.log(text.split(regex))
