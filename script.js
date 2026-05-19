@@ -21,4 +21,4 @@ const regex = /(?<digit>\d+)(?<word>\w+)/g;
 // })
 // console.log(final)
 
-console.log(text.split(regex))
+// console.log(text.split(regex))
